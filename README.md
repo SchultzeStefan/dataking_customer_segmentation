@@ -3,43 +3,29 @@
 example image:
 
 
-![alternative text](reports/img/crown.jpg)
+![alternative text](reports/img/credit_card.jpg)
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
-
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact]
-* If you do not have a partner leave this section out
+The purpose of this project was to practise the knowlendge we learned in the Machine Learning weeks at Data Science Bootcamp. We selected an Unsupervised Learning task of segmentation of credit card customers.
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
+* Descriptive Statistics
+* Unsupervised Machine Learning - k-Nearest Neighbours
 * Data Visualization
-* Predictive Modeling
-* etc.
+* Dimensionality Reduction - TSNE
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
 
 ## Project Description
-(Provide more detailed overview of the project.
-Talk a bit about your data sources and what questions and hypothesis you are exploring.
-What specific data analysis/visualization and modelling work are you using to solve the
-problem? What blockers and challenges are you facing?
-Feel free to number or bullet point things here)
+We were given a dataset of credit card transactions. The dataset contained 8500 customers and their activity over a 6-month period. Each transaction was characterized by 18 features.
+
+Our task was to find the most useful customer segmentation to improve the marketing campaigns of the company.
+
 
 ## Getting Started
 
@@ -63,10 +49,7 @@ create another "setup.md" file and link to it here*
 
 
 ## Contributing Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])**
-
-#### Other Members:
-
- - [Full Name](https://github.com/[github handle])
- - [Full Name](https://github.com/[github handle])
+ - [Alzbeta Bohinikova](https://github.com/[Betka112])
+ - [Michael Flury](https://github.com/[mikjf])
+ - [Eva Polakova](https://github.com/[poleva])
+ - [Stefan Schultze](https://github.com/[SchultzeStefan])
