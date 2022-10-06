@@ -1,4 +1,4 @@
-# Project Name
+# Customer segmentation
 
 example image:
 
