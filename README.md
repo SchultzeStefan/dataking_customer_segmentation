@@ -30,7 +30,7 @@ To replicate results of our analysis, just download data and the Complete Analys
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Complete Analysis](link)
-* [Final Presentation](reports/Credit_card_customer_analysis.pdf)
+* [Final Presentation](reports/Credit_card_customer_analysis_final.pdf)
 
 
 ## Contributing Members
