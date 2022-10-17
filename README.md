@@ -34,7 +34,7 @@ To replicate results of our analysis, just download data and the Complete Analys
 
 
 ## Contributing Members
- - [Alzbeta Bohinikova](https://github.com/[Betka112])
- - [Michael Flury](https://github.com/[mikjf])
- - [Eva Polakova](https://github.com/[poleva])
- - [Stefan Schultze](https://github.com/[SchultzeStefan])
+ - [Alzbeta Bohinikova](https://github.com/Betka112)
+ - [Michael Flury](https://github.com/mikjf)
+ - [Eva Polakova](https://github.com/poleva)
+ - [Stefan Schultze](https://github.com/SchultzeStefan)
